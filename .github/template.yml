@@ -1,0 +1,8 @@
+name: Robot Automation Project
+description: A Robot Framework automation project based on the blueprint template
+labels:
+  - robot-framework
+  - rpa
+  - automation
+  - playwright
+  - template

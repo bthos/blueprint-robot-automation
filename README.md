@@ -2,6 +2,14 @@
 
 A Robot Framework-based RPA blueprint for creating automation projects that interact with web applications through UI and API automation. This template provides a solid foundation for building enterprise automation solutions.
 
+## 🚀 Use This Template
+
+**Ready to start your automation project?** Click the **"Use this template"** button at the top of this repository to create a new repository based on this blueprint.
+
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](../../generate)
+
+This will create a new repository in your account with all the blueprint files, allowing you to start customizing immediately without cloning or removing git history.
+
 ## Table of Contents
 
 - [Features](#features)
@@ -40,7 +48,23 @@ A Robot Framework-based RPA blueprint for creating automation projects that inte
 
 ## Quick Start
 
-### 1. Create New Project from Blueprint
+### Option 1: Use This Template (Recommended)
+
+1. **Click "Use this template"** button at the top of this repository
+2. **Name your new repository** and choose visibility (public/private)
+3. **Clone your new repository**:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/your-new-repo.git
+   cd your-new-repo
+   ```
+4. **Run the setup script**:
+   ```bash
+   ./setup.sh
+   ```
+
+### Option 2: Manual Clone
+
+If you prefer to clone directly:
 
 ```bash
 # Clone this blueprint repository

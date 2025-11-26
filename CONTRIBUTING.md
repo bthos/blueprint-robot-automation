@@ -2,7 +2,19 @@
 
 Thank you for your interest in contributing! This document provides guidelines for contributing to the Robot Automation Blueprint project.
 
-## Getting Started
+## For Template Users
+
+If you've created a repository from this template and want to contribute improvements back:
+
+1. **Create a fork** of the original blueprint repository (not your template-created repo)
+2. **Make your improvements** in the fork
+3. **Submit a pull request** to the blueprint repository
+
+Your contributions help improve the template for all users!
+
+## For Direct Contributors
+
+### Getting Started
 
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
