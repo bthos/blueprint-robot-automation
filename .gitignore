@@ -1,0 +1,48 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Reports and Logs
+reports/
+logs/
+output.xml
+log.html
+report.html
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment Variables (contains secrets - never commit!)
+.env
+
+# Data files (may contain sensitive info)
+data/*.xlsx
+data/*.csv
+!data/sample_*.xlsx
+!data/sample_*.csv
+
+# Browser/Playwright
+.playwright/
+playwright-log.txt
+
+# Test artifacts
+selenium-screenshot-*.png
+browser/screenshot/
