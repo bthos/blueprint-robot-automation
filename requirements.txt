@@ -19,7 +19,7 @@ rpaframework-excel>=0.1.0
 python-dotenv==1.0.0
 
 # API Requests
-requests==2.31.0
+requests==2.33.0
 
 # Optional: SharePoint Integration
 # Uncomment if you need SharePoint support
